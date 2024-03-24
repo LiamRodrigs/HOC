@@ -1,8 +1,31 @@
 <html>
 <h7> Works Cited
-
 </h7>
 
+<style>
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+  }
+  
+  p {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+</style>
 <p>“A Review of Herman Hollerith: The Forgotten Giant.’” DISCERNING READERS, www.discerningreaders.com/review-herman-hollerith-forgotten-giant-information-processing.html.
 Wikipedia contributors. “Herman Hollerith.” Wikipedia, 9 Feb. 2024, en.wikipedia.org/wiki/Herman_Hollerith.
 The Editors of Encyclopaedia Britannica. “Herman Hollerith | Biography, Tabulating Machine, and Facts.” Encyclopedia Britannica, 25 Feb. 2024, www.britannica.com/biography/Herman-Hollerith.
